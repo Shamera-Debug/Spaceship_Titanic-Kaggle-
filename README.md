@@ -1,6 +1,8 @@
 # Spaceship_Titanic-Kaggle-
 Spaceship_Titanic(Kaggle) 문제
-![image](https://github.com/Shamera-Debug/Spaceship_Titanic-Kaggle-/assets/68696549/f17b4961-f5bf-4e07-a22f-49ba8edc8bcc)
+
+![image](https://github.com/Shamera-Debug/Spaceship_Titanic-Kaggle-/assets/68696549/d03941cb-aa06-4a84-a37c-0bfffb7b995c)
+
 
 ### Description
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
